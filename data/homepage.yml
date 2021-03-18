@@ -1,8 +1,8 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Crema hidratante de azuleno con colágeno y elastina para pieles normales"
-  content : "Un excelente humectante para la piel normal es la Crema Hidratante Elastin Collagen Azulene de Christina"
+  title : "Hidratante para pieles secas a muy secas de rostro y cuerpo"
+  content : "Una barrera lipídica dañada es la principal causa de piel seca. Pero no hay sequedad que la crema hidratante CeraVe no pueda hacer frente."
   image : "images/banner.png"
   # button
   button:
@@ -18,7 +18,7 @@ banner:
 about:
   enable : true
   title : "About Our Product"
-  content : "Al poseer una textura delicada, la crema se extiende fácilmente sobre la superficie de la piel y se absorbe rápidamente. La fórmula de la crema está enriquecida con colágeno y elastina, lo que contribuye a la preservación de la juventud, firmeza y elasticidad de la piel. Las vitaminas A y E en la fórmula tienen un efecto protector, aumentan la inmunidad y promueven la renovación activa de las células epidérmicas."
+  content : "Alivia significativamente las exacerbaciones de la piel seca y deshidratada, ya que su fórmula está enriquecida con tres ceramidas principales y ácido hialurónico. Estos ingredientes aseguran la absorción de micronutrientes beneficiosos y un flujo constante de ingredientes hidratantes durante el día y la noche. Su textura rica pero no grasa envuelve la piel con un velo nutritivo, evitando la evaporación de la humedad."
   image : "images/about.png"
 
 
@@ -68,7 +68,7 @@ advantage:
 video:
   enable : true
   title : "How To Use This Product?"
-  content : "Aplique una fina capa de Christina Moisturizer sobre la piel pretratada con suero hasta su total absorción."
+  content : "aplicar la cantidad necesaria de crema sobre la piel y distribuir con movimientos de masaje. Evite el área de los ojos. En caso de contacto con los ojos, enjuague inmediatamente con agua."
   videoThumb : "images/video-thumb.jpg"
   videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
@@ -85,30 +85,23 @@ testimonial:
   enable : true
   title : "What People Are Saying <br> About Our Product"
   testimonialItem:
-    # testimonial item loop
-    - name : "Angela Perara"
-      image : "images/clients/client-1.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Muy ligero, ingrávido. Lo usaré en verano, para el invierno hay muy poca humedad. Se absorbe rápidamente, no deja una película 5a en el rostro."
-      rating : "five" # rating star, one to five
-      
-    # testimonial item loop
+      # testimonial item loop
     - name : "Riya Ventilo"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "¡Satisfecho con la crema! He estado usando esta serie durante mucho tiempo. La crema es ligera, no deja brillos en el rostro con mi piel mixta. Deja una sensación de ligereza."
+      content : "Me gustó la crema, la uso para el rostro y para otras zonas secas del cuerpo. Se absorbe rápidamente, no deja película, el consumo es mínimo. Se necesita una crema más activa debajo de los ojos y, en general, realiza sus funciones a la perfección."
       rating : "three" # rating star, one to five
       
     # testimonial item loop
     - name : "john Doe"
       image : "images/clients/client-3.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Literalmente suficientes guisantes. Ligero, bien absorbido."
+      content : "¡Buenas noches! Quiero hacer un comentario muy breve: estoy agarrando de esta crema, la textura es aún más ligera y me siento adornado."
       rating : "five" # rating star, one to five
       
     # testimonial item loop
     - name : "Riya Ventila"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Un buen humectante, pero no es suficiente para mi piel seca (((. Lo uso con suero hialurónico, luego el efecto de dos productos y la piel simplemente brilla, nutre e hidrata"
+      content : "Una crema excelente, una de las pocas que es apta para pieles sensibles, el rostro después de que esté nutrido, hidratado !!"
       rating : "four" # rating star, one to five
